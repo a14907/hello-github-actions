@@ -1,4 +1,4 @@
-name: A workflows for my Hello World file
+name: A workflows for msy Hello World file
 on: push
 jobs:
   build:
